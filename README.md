@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-game-C-
-This game give user three options. Either to play game or to display previous winner's names or to exit from the game. First option will allow two users to enter their names and play game. The winner's name will be stored in a file and if the player want to see the previous winner's names then they will press "2" then the names will be read from files and will be shown on the console.
+# Tic-Tac-Toe-game-C++
+This game is written in C++. This game give user three options. Either to play game or to display previous winner's names or to exit from the game. First option will allow two users to enter their names and play game. The winner's name will be stored in a file and if the player want to see the previous winner's names then they will press "2" then the names will be read from files and will be shown on the console.
